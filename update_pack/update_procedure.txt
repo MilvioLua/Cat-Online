@@ -1,0 +1,10 @@
+Please follow the instructions carefully.
+
+1. Import the file 'update_script.sql' into your database, from your copy of Ekattor app downloaded from Codecanyon.
+
+
+2. Please follow the instructions below ->		
+	b. Copy the controllers, helpers, models and views folders and replace those folders in your application.
+
+PLEASE MAKE SURE THAT YOU ARE RUNNING THE 6.1 VERSION BEFORE UPDATING TO 6.2
+IF YOU ARE ALREADY RUNNING THE 6.2 VERSION THERE IS NO NEED TO UPDATE… Thank You
